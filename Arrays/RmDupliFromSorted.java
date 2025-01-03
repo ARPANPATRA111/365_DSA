@@ -1,3 +1,6 @@
+/*LeetCode link:- https://leetcode.com/problems/remove-duplicates-from-sorted-array/ */
+
+
 public class RmDupliFromSorted {
     public static int removeDuplicates(int[] nums) {
         int k=0;
