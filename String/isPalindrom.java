@@ -1,3 +1,5 @@
+/*LeetCode link:- https://leetcode.com/problems/palindrome-number/ */
+
 public class isPalindrom {
     public static boolean isPalindrome(int x) {
         int pal=0,m;
