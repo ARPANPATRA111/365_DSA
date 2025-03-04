@@ -1,6 +1,6 @@
 /*LeetCode link:- https://leetcode.com/problems/reverse-linked-list/ */
 
-class reverseLL {
+public class reverseLL {
     public static class ListNode {
         int val;
         ListNode next;
